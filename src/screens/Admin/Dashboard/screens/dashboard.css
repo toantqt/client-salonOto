@@ -1,0 +1,49 @@
+.dashboard-content {
+  width: 100%;
+  height: auto;
+}
+.header-title {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.btn-a-1 {
+  color: green !important;
+}
+
+.btn-a-2 {
+  color: blue !important;
+}
+
+.btn-a-3 {
+  color: red !important;
+}
+
+.head-title .title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #4699d4;
+}
+
+.wrapper-class {
+  padding: 9px !important;
+  background-color: rgba(0, 0, 0, 0.04) !important;
+  border-radius: 6px;
+}
+.editor-class,
+.toolbar-class {
+  border: 1px solid #ccc;
+}
+.editor-class {
+  min-height: 200px;
+  max-height: 400px;
+  width: 100% !important;
+  overflow-x: hidden !important;
+  background-color: #fff;
+  padding: 1rem;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 500;
+}
